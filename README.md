@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vaibhavkrishali6.
-- 👀 I’m interested in algoithmic trading .
-- 🌱 I’m currently learning C++ amd DS&A.
+- 👋 Hi, I’m @vaibhavkrishali6
 
 - Email id : vaibhavkrishali1@gmail.com
 
